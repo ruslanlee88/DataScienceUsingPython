@@ -1,0 +1,8 @@
+name: pandas-env
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
